@@ -22,7 +22,7 @@ public class Linterna {
             this.encendida = true;
             System.out.println("<----");
         } else {
-            System.out.println("¡Ya está encendida!");
+            System.out.println("¡Ya está encendida, man!");
             System.out.println("<----");
         }
     }
